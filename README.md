@@ -1,4 +1,5 @@
 # UNIX_DateAppProject
+<<<<<<< HEAD
 ECE 2524 UNIX Date Night App in Python Final Project
 
 need to import the following:
@@ -17,3 +18,12 @@ Things we need to figure out:
 	-or find something else
 3) Figure out how to input directions into Google Maps API
 	- https://github.com/googlemaps/google-maps-services-python
+=======
+ECE 2524 UNIX Date Night App in Python Final Project 
+#need to import the following:
+geocoder
+pip install geocoder
+
+pyyelp
+pip install python-yelp-v2
+>>>>>>> b96ff9a70f001b86bdc2db0c7c09c21e6d8b5a61
