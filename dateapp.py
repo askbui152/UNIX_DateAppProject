@@ -30,6 +30,9 @@ def main():
 	search_results = yelp_api.Search(term=parse_results.category, location=parse_results.addr)
 	for business in search_results.businesses:
 		print business.name
+	#print search_results.businesses.name[0]
+	#yelp_business = yelp.Business(search_results.businesses[0])
+	#print yelp_business.location
 
 if __name__ == '__main__':
 	main()
