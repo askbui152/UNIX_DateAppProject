@@ -14,7 +14,9 @@ yelp_consum_secret = 'F-o0877jY6_yW39hU16ij4-YZ6g'
 yelp_token = '7XaEjV0vRRT2esfa3NadQVQKB_-pPnRx'
 yelp_token_secret = 'TNKA8qlMAKRcAkHn8oyYzs-8UWQ'
 
-
+gmap_API_key = 'AIzaSyCX0kXtCU4lBw4VTxqRIOzajj9jDLqRNYU'
+gmap_clientID = '141690507319-rrbbq0bffv3oj219fj9tq8d17svitk05.apps.googleusercontent.com'
+gmap_clientSecret = 'QDGbuT59VlLT4GOyYDWqGbzd'
 #def yelp():
 
 #def imdb or rotten tomatoes():
